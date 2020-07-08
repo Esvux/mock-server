@@ -2,7 +2,7 @@
     "container-ops": [
         {
             "code": "JBL789966-5",
-            "cutDate": "2020-05-9",
+            "cutDate": "2020-05-09",
             "originFacility": "Puerto Barrios",
             "weight": "100tn",
             "stoSku": "SK01",
@@ -11,7 +11,7 @@
             "stoSizeType": "20m",
             "containerId": 522,
             "stoContainerType": "iso Tanque",
-            "entryDate": "2020-05-8",
+            "entryDate": "2020-05-08",
             "stoProduct": "Banano",
             "location": "T05-N09-E05"
         },
